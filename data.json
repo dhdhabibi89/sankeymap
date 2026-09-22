@@ -1,0 +1,119 @@
+[
+  {
+    "from": "Shanghai",
+    "fromLat": 31.2304,
+    "fromLng": 121.4737,
+    "to": "Beijing",
+    "toLat": 39.9042,
+    "toLng": 116.4074,
+    "value": 4500
+  },
+  {
+    "from": "Beijing",
+    "fromLat": 39.9042,
+    "fromLng": 116.4074,
+    "to": "Dubai",
+    "toLat": 25.2048,
+    "toLng": 55.2708,
+    "value": 3800
+  },
+  {
+    "from": "Tehran",
+    "fromLat": 35.6892,
+    "fromLng": 51.3890,
+    "to": "Dubai",
+    "toLat": 25.2048,
+    "toLng": 55.2708,
+    "value": 2100
+  },
+  {
+    "from": "Tehran",
+    "fromLat": 35.6892,
+    "fromLng": 51.3890,
+    "to": "Istanbul",
+    "toLat": 41.0082,
+    "toLng": 28.9784,
+    "value": 1800
+  },
+  {
+    "from": "Dubai",
+    "fromLat": 25.2048,
+    "fromLng": 55.2708,
+    "to": "Istanbul",
+    "toLat": 41.0082,
+    "toLng": 28.9784,
+    "value": 3200
+  },
+  {
+    "from": "Dubai",
+    "fromLat": 25.2048,
+    "fromLng": 55.2708,
+    "to": "Frankfurt",
+    "toLat": 50.1109,
+    "toLng": 8.6821,
+    "value": 2900
+  },
+  {
+    "from": "Istanbul",
+    "fromLat": 41.0082,
+    "fromLng": 28.9784,
+    "to": "Frankfurt",
+    "toLat": 50.1109,
+    "toLng": 8.6821,
+    "value": 2400
+  },
+  {
+    "from": "Istanbul",
+    "fromLat": 41.0082,
+    "fromLng": 28.9784,
+    "to": "Paris",
+    "toLat": 48.8566,
+    "toLng": 2.3522,
+    "value": 1600
+  },
+  {
+    "from": "Frankfurt",
+    "fromLat": 50.1109,
+    "fromLng": 8.6821,
+    "to": "London",
+    "toLat": 51.5074,
+    "toLng": -0.1278,
+    "value": 3100
+  },
+  {
+    "from": "Paris",
+    "fromLat": 48.8566,
+    "fromLng": 2.3522,
+    "to": "London",
+    "toLat": 51.5074,
+    "toLng": -0.1278,
+    "value": 2200
+  },
+  {
+    "from": "London",
+    "fromLat": 51.5074,
+    "fromLng": -0.1278,
+    "to": "New York",
+    "toLat": 40.7128,
+    "toLng": -74.0060,
+    "value": 4100
+  },
+  {
+    "from": "Frankfurt",
+    "fromLat": 50.1109,
+    "fromLng": 8.6821,
+    "to": "Toronto",
+    "toLat": 43.6532,
+    "toLng": -79.3832,
+    "value": 1500
+  },
+  {
+    "from": "New York",
+    "fromLat": 40.7128,
+    "fromLng": -74.0060,
+    "to": "Los Angeles",
+    "toLat": 34.0522,
+    "toLng": -118.2437,
+    "value": 3500
+  }
+]
